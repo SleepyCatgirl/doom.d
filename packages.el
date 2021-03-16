@@ -51,3 +51,6 @@
 
 (package! pdf-tools)
 (package! haskell-mode)
+(package! slime)
+(package! org-roam)
+(package! org-roam-server)
